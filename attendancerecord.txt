@@ -1,0 +1,4 @@
+| Name         |   Roll Number | Father's Name   | Course   | Section   | Attendance Date and time   |
+|--------------+---------------+-----------------+----------+-----------+----------------------------|
+| Peter Parker |            34 | Ben Parker      | B.Sc     | H         | 06/01/2022 18:42:19        |
+
