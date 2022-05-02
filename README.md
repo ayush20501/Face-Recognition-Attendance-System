@@ -50,3 +50,6 @@ File. Finally the images of the students is being tracked and recognized.
 6. After tracking the images are attendance of the students is marked.
 7. The Text File for attendance of the students is created named attendancerecord.
 8. The students attendance record is stored in the attendancerecord text file.
+
+***
+Created By: Ayush Gupta
