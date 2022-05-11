@@ -52,4 +52,7 @@ File. Finally the images of the students is being tracked and recognized.
 8. The students attendance record is stored in the attendancerecord text file.
 
 ***
-Created By: Ayush Gupta
+Created By: Ayush Gupta<br/>
+Gmail: ayush20501.ag@gmail.com<br/>
+[Linkedin](https://www.linkedin.com/in/ayush-gupta-3bb02a1a2)<br/>
+[Instagram](https://www.instagram.com/ayushh__guptaa/)
