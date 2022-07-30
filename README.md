@@ -1,4 +1,5 @@
 ### REGOGNISE THE FACES AND TAKE THE ATTENDANCE AUTOMATICALLY!
+***
 In traditional attendance system, the students are called out by the teachers and their presence or absence is marked accordingly. However, these traditional techniques are time consuming and tedious. A facial recognition system is a computerized software which is suited for determining or validating a person by performing comparison on patterns based on their facial appearances.
 
 ![download](https://user-images.githubusercontent.com/77526719/148436174-bbeda420-8cdb-4b5d-aee8-7ba7e5a4033a.jpg)
